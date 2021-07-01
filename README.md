@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @juanpa12121
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, MYSQL, Selenium and Cucumber.
+- 🌱 I’m currently learning HTML, CSS, PHP (POO and MVC), MYSQL, Selenium and Cucumber.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
